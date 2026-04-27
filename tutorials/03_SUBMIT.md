@@ -92,7 +92,7 @@ cogames submit my_policy_name --season beta-teams-small
 List available seasons:
 
 ```bash
-cogames seasons
+cogames season list
 ```
 
 Note: Scores can take a while to appear after submission.
